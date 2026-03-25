@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none">
+  <!-- Center leaf (pointing up) -->
+  <path d="M12 2 C12 2 8 8 12 14 C16 8 12 2 12 2Z" fill="#15803d"/>
+  <!-- Left leaf -->
+  <path d="M12 14 C12 14 4 10 2 5 C2 5 10 6 12 14Z" fill="#15803d" opacity="0.8"/>
+  <!-- Right leaf -->
+  <path d="M12 14 C12 14 20 10 22 5 C22 5 14 6 12 14Z" fill="#15803d" opacity="0.8"/>
+  <!-- Small stem -->
+  <path d="M12 14 L12 22" stroke="#15803d" stroke-width="2" stroke-linecap="round"/>
+</svg>
